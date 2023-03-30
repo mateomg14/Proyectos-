@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"path": "../../Henry/CLASES"
+		},
+		{
+			"path": "../../../../Curso Python en linea"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"mysqlOptions": {
+					"authProtocol": "default"
+				},
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 3306,
+				"driver": "MySQL",
+				"name": "Local instance MySQL80",
+				"database": "datos",
+				"username": "m.martinez11",
+				"password": "gotenssj5"
+			}
+		]
+	}
+}
